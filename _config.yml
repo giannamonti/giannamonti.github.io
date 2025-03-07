@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Gianna Monti"
-subtitle                 : "Statistician / Public Health Data Scientist"
+subtitle                 : "Statistician / Data Scientist"
 title_separator          : "-"
 name                     : &name "Gianna Monti"
 description              : &description "personal description"
@@ -82,13 +82,13 @@ author:
   name             : "Gianna Monti"
   avatar           : "gm.jpg"
   bio              : "Associate Professor of Statistics at University of Milano-Bicocca"
-  email            : #"gianna.monti@unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  email            : "gianna.monti&#xA9;unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "Milan, Italy"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LieGeJUAAAAJ&hl=it"
   email            : "gianna.monti@unimib.it"
-  researchgate     :  "https://www.researchgate.net/profile/Gianna-Monti?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Gianna-Monti?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
