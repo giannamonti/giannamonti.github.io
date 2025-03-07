@@ -82,7 +82,7 @@ author:
   name             : "Gianna Monti"
   avatar           : "gm.jpg"
   bio              : "Associate Professor of Statistics at University of Milano-Bicocca"
-  email            : "gianna.monti&#xA9;unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  email            : "gianna.monti@unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "Milan, Italy"
   employer         :
   pubmed           :
