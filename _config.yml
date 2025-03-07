@@ -40,8 +40,8 @@ staticman:
   moderation             : true
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
+  #transforms:
+  #  email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ author:
   name             : "Gianna Monti"
   avatar           : "gm.jpg"
   bio              : "Associate Professor of Statistics at University of Milano-Bicocca"
-  email            : "gianna.monti@unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  email            : #"gianna.monti@unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "Milan, Italy"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LieGeJUAAAAJ&hl=it"
-  email            :
+  email            : "gianna.monti@unimib.it"
   researchgate     :  "https://www.researchgate.net/profile/Gianna-Monti?ev=hdr_xprf"
   uri              :
   bitbucket        :
