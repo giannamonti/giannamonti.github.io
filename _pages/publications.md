@@ -1,8 +1,9 @@
 ---
-title: "Representative Publications"
+title: "A Selection of Representative Publications"
 permalink: /publications/
 author_profile: true
 ---
+For a complete list, please visit my [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=24390889600).
 
 ## High Dimensional Regression Analysis for Genomic Data
 
