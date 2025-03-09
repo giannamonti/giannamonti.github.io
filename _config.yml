@@ -183,6 +183,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  tesi:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -215,6 +218,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _tesi
+  - scope:
+      path: ""
+      type: tesi
     values:
       layout: single
       author_profile: true
