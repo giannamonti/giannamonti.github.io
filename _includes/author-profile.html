@@ -52,6 +52,9 @@
        {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+      {% if author.scopus %}
+        <li><a href="{{ author.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
