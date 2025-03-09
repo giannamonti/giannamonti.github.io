@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Gianna S. Monti, Ph.D."
-subtitle                 : "Statistician"
+subtitle                 : "Statistician & Data Scientist"
 title_separator          : "-"
 name                     : &name "Gianna Monti"
 description              : &description "personal description"
