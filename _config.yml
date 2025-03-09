@@ -84,7 +84,8 @@ author:
   bio              : "Associate Professor of Statistics at University of Milano-Bicocca"
   email            : "gianna.monti@unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "Milan, Italy"
-  employer         :
+  employer         : "University of Milano-Bicocca"
+  employerURL      : "https://en.unimib.it/"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LieGeJUAAAAJ&hl=it"
   email            : #"gianna.monti@unimib.it"
