@@ -1,14 +1,14 @@
 ---
-permalink: /tesi/
-title: "Tesi (in italian)"
-excerpt: "Tesi (in italian)"
+permalink: /theses/
+title: "Theses"
+excerpt: "Theses"
 author_profile: true
 ---
 
-Le tesi proposte agli studenti dei corsi di laurea in Scienze Statistiche ed Economiche e in Data Science riguardano principalmente i seguenti ambiti di ricerca:
+The theses proposed to students enrolled in the degree programs in Statistical and Economic Sciences and in Data Science mainly focus on the following research areas:
 
-- Metodi statistici per dati genomici
-- Metodi statistici per dati composizionali
-- Modelli statistici per il rischio ecotossicologico
+- Statistical methods for genomic data
+- Statistical methods for compositional data
+- Statistical models for ecotoxicological risk
 
-Per maggiori informazioni, non esitate a contattarmi.
+For further information, please do not hesitate to contact me.

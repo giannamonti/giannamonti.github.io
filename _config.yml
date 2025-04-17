@@ -183,7 +183,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  tesi:
+  theses:
     output: true
     permalink: /:collection/:path/
   portfolio:
