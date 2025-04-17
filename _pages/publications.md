@@ -20,9 +20,9 @@ For a complete list, please visit my [Scopus Profile](https://www.scopus.com/aut
 ## Compositional Data
 
 - Mateu-Figueras, G., Monti, G.S. and Egozcue, J.J. (2021). <br>
-  [Distributions on the simplex revisited](https://link.springer.com/chapter/10.1007/978-3-030-71175-7_4). <br> In P. Filzmoser, K. Hron, J.A. Martin-Fernandez, J. Palarea-Albaladejo (a cura di), *Advances in Compositional Data Analysis Festschrift in Honour of Vera Pawlowsky-Glahn*, Springer.
+  [Distributions on the simplex revisited](https://link.springer.com/chapter/10.1007/978-3-030-71175-7_4). <br> In P. Filzmoser, K. Hron, J.A. Martin-Fernandez, J. Palarea-Albaladejo, *Advances in Compositional Data Analysis Festschrift in Honour of Vera Pawlowsky-Glahn*, Springer.
 
-- Monti, G., Mateu-Figueras, G., Hron, K. (2022). <br> [Additive Logistic Normal  Distribution](https://link.springer.com/content/pdf/10.1007/978-3-030-26050-7_39-1). <br> In B.S. Daya Sagar, Q. Cheng, J. McKinley, F. Agterberg (a cura di), *Encyclopedia of Mathematical Geosciences* (pp. 1-6). Springer, Cham.
+- Monti, G., Mateu-Figueras, G., Hron, K. (2022). <br> [Additive Logistic Normal  Distribution](https://link.springer.com/content/pdf/10.1007/978-3-030-26050-7_39-1). <br> In B.S. Daya Sagar, Q. Cheng, J. McKinley, F. Agterberg, *Encyclopedia of Mathematical Geosciences*. Springer.
 
 - Migliorati, S., Ongaro, A., Monti, G. (2017). <br> [A structured Dirichlet mixture model for compositional data: inferential and applicative issues](https://link.springer.com/article/10.1007/s11222-016-9665-y). <br> *Statistics and Computing*.
 
