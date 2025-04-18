@@ -11,4 +11,6 @@ The theses proposed to students enrolled in the degree programs in Statistical a
 - Statistical methods for compositional data
 - Statistical models for ecotoxicological risk
 
+For writing the thesis, the use of [Overleaf (LaTeX)](https://www.overleaf.com/) is highly recommended, as it ensures a high-quality and professional layout and makes it easier for the supervisor to provide feedback and edits.
+
 For further information, please do not hesitate to contact me.
