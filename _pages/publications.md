@@ -16,7 +16,7 @@ For a complete list, please visit my [Scopus Profile](https://www.scopus.com/aut
   [Sparse least trimmed squares regression with compositional covariates for high dimensional data](https://academic.oup.com/bioinformatics/article/37/21/3805/6343442). <br> *Bioinformatics*.
 
 - Monti, G.S. and Filzmoser, P.  (2021) <br>
-  [Robust logistic zero-sum regression for microbiome compositional data](https://link.springer.com/article/10.1007/s11634-021-00465-4) <br> *Advances in Data Analysis and Classification*.
+  [Robust logistic zero-sum regression for microbiome compositional data](https://link.springer.com/article/10.1007/s11634-021-00465-4). <br> *Advances in Data Analysis and Classification*.
 
 
 ## Compositional Data
@@ -31,7 +31,6 @@ For a complete list, please visit my [Scopus Profile](https://www.scopus.com/aut
 ## Ecological Risk Assessment
 
 - Federico, L., Monti, G.S., Loureiro, S. and Villa, S. (2024). <br> [Disaggregation behavior in the terrestrial isopod Porcellionides pruinosus as a new ecotoxicological endpoint for assessing infochemical disrupting activity.](https://www.sciencedirect.com/science/article/pii/S1470160X24010598) <br> *Ecological Indicators*
-
 
 - Rizzi, C., Villa, S., Chimera, C., Finizio, A. and Monti, G.S. (2021). <br> [Spatial and temporal trends in the ecological risk posed by polycyclic aromatic hydrocarbons in Mediterranean Sea sediments using large-scale monitoring data.](https://www.sciencedirect.com/science/article/pii/S1470160X21005884) <br> *Ecological Indicators*
 
