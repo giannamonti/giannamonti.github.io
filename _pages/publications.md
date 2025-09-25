@@ -7,6 +7,8 @@ For a complete list, please visit my [Scopus Profile](https://www.scopus.com/aut
 
 ## High Dimensional Regression Analysis for Genomic Data
 
+- Monti, G.S., Pujolassos, M. T., Calle Rosingana, M. and Filzmoser, P. (2025) <br> [Robust multivariate regression controlling false discoveries for microbiome data](https://doi.org/10.1093/bioinformatics/btaf506). <br>  *Bioinformatics*.
+
 - Monti, G.S. and Filzmoser, P.  (2022) <br>
   [A robust knockoff filter for sparse regression analysis of microbiome compositional data](https://link.springer.com/article/10.1007/s00180-022-01268-7). <br> *Computationl Statistics*.
 
