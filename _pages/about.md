@@ -8,14 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Statistics (STAT-01/A) at the [Department of Economics, Management, and Statistics (DEMS)](https://www.dems.unimib.it/en), [University of Milano-Bicocca](https://dems.unimib.it/en).
+I am an **Associate Professor of Statistics** (STAT-01/A) at the [University of Milano-Bicocca](https://dems.unimib.it/en), within the [Department of Economics, Management, and Statistics (DEMS)](https://www.dems.unimib.it/en).
 
-My research is deeply rooted in **compositional data analysis**, robust statistics, and nonparametric inference, with a strong emphasis on ecological applications. Currently, my work addresses the challenges of high-dimensional microbiome data, specifically through the development of sparse regression models for False Discovery Rate (FDR) control. My methodological background also includes extensive experience in mixture models and Bayesian hierarchical modeling.
+My work is driven by the conviction that complex data—whether biological or environmental—require tailored, robust, and geometrically sound statistical frameworks. I specialize in developing methodologies that handle the constraints of modern high-dimensional data without sacrificing mathematical integrity.
 
-I am an active member of the [Italian Statistical Association (SIS)](https://www.sis-statistica.it/) and the [International Association for Statistical Computing (IASC-ISI)](https://iasc-isi.org/). I also contribute to several interdisciplinary research centers, including [POLARIS](https://polaris.unimib.it/en/research/), [B-ASC](https://basc.dems.unimib.it/), [NeuroMI](https://neuromi.it/), and [BReCHS](https://en.unimib.it/ugov/organizationunit/362573). 
+### Research Interests & Expertise
 
-**I have been elected Vice President of the [CODA Association](https://www.coda-association.org/en/) for the 2025–2029 term.**
+My academic journey is anchored in the development of robust and nonparametric inference, with a primary focus on:
 
-Since 2024, I have served as an Associate Editor for <i class="ai ai-springer ai-fw"></i> [Statistical Methods and Applications](https://link.springer.com/journal/10260).
+* **Compositional Data Analysis (CoDa):** Exploring the geometry of data representing parts of a whole, ensuring that the relative nature of information is preserved.
+* **High-Dimensional Microbiome Data:** Developing sparse regression models aimed at controlling the False Discovery Rate (FDR) in complex genomic settings.
+* **Ecological Risk Assessment:** Tailoring statistical methods to quantify environmental impact and species sensitivity, bridging the gap between theoretical statistics and sustainability.
+* **Methodological Toolkit:** Extensive experience in **Mixture Models** and **Bayesian Hierarchical Modeling** to account for complex data structures and uncertainty.
 
 
+
+### Scientific Community & Leadership
+
+I am deeply committed to the advancement of the international statistical community. I have been elected **Vice President of the [CODA Association](https://www.coda-association.org/en/)** for the 2025–2029 term.
+
+I also contribute my expertise to several interdisciplinary research centers, fostering collaboration across diverse scientific domains:
+* **Environment & Sustainability:** [POLARIS](https://polaris.unimib.it/en/research/)
+* **Applied Statistics:** [B-ASC](https://basc.dems.unimib.it/)
+* **Neuroscience & Health:** [NeuroMI](https://neuromi.it/) and [BReCHS](https://en.unimib.it/ugov/organizationunit/362573)
+
+Additionally, I serve as an Associate Editor for <i class="ai ai-springer ai-fw"></i> [Statistical Methods and Applications](https://link.springer.com/journal/10260) and am an active member of the **Italian Statistical Association (SIS)** and the **International Association for Statistical Computing (IASC-ISI)**.
