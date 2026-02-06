@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+> I teach how to transform data uncertainty into rigorous knowledge. When reality is complex and ever-changing, Statistics is the compass that allows us to navigate it—turning doubt into calculated risk and measurement into an act of meaningful insight.
+
 I am an **Associate Professor of Statistics** (STAT-01/A) at the [University of Milano-Bicocca](https://dems.unimib.it/en), within the [Department of Economics, Management, and Statistics (DEMS)](https://www.dems.unimib.it/en).
 
 My work is driven by the conviction that complex data—whether biological or environmental—require tailored, robust, and geometrically sound statistical frameworks. I specialize in developing methodologies that handle the constraints of modern high-dimensional data without sacrificing mathematical integrity.
