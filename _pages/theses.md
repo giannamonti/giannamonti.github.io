@@ -5,12 +5,32 @@ excerpt: "Theses"
 author_profile: true
 ---
 
-The theses proposed to students enrolled in the degree programs in Statistical and Economic Sciences and in Data Science mainly focus on the following research areas:
+# Thesis Projects
 
-- Statistical methods for genomic data
-- Statistical methods for compositional data
-- Statistical models for ecotoxicological risk
+I am available to supervise thesis projects for students enrolled in **Statistical and Economic Sciences** (Bachelor and Master) and **Data Science**. My proposals generally involve the development, implementation, or application of advanced statistical methodology to complex data structures.
 
-For writing the thesis, the use of [Overleaf (LaTeX)](https://www.overleaf.com/) is highly recommended, as it ensures a high-quality and professional layout and makes it easier for the supervisor to provide feedback and edits.
+## Research Areas for Thesis Proposals
 
-For further information, please do not hesitate to contact me.
+* **Statistical Methods for Genomic Data:** Development of models for high-dimensional data, with a focus on microbiome analysis and False Discovery Rate (FDR) control.
+* **Compositional Data Analysis (CoDa):** Theoretical and applied projects involving data that represent parts of a whole (e.g., percentages, proportions) using the Aitchison geometry.
+* **Ecotoxicological Risk Assessment:** Application of robust statistical models and mixture models to assess environmental impact and species sensitivity.
+
+---
+
+## Technical Requirements & Workflow
+
+### <i class="ai ai-obp"></i> Software and Tools
+* **LaTeX:** The use of [Overleaf](https://www.overleaf.com/) is **highly recommended** (and often required). It ensures professional typesetting and facilitates the collaborative editing process between student and supervisor.
+* **R/Python:** Students are expected to have a solid foundation in R (preferred) or Python for the computational part of the thesis.
+
+### How to Apply
+If you are interested in a thesis in one of these areas, please send me an email including:
+1. A brief description of your interests.
+2. Your latest transcript of records (Libretto).
+3. Any specific preference for a theoretical or applied project.
+
+
+
+---
+
+> For further information or to discuss a specific idea, please do not hesitate to contact me during office hours.

@@ -4,23 +4,32 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Computational Statistics at University of Milano-Bicocca 
-*Master Degree in Statistical and Economic Sciences, Dep. of Economics, Management and Statistics*, 1st Term 2025/26
-See [Moodle](https://elearning.unimib.it/course/view.php?id=55110) for lecture slides and homework assignments
+## Teaching — Academic Year 2025/2026
 
-### High Dimensional Data Analysis at University of Milano-Bicocca 
-*Master Degree in Data Sciences, Department of Informatics, Systems and Communication*, 1st Term 2025/26
-See [Moodle](https://elearning.unimib.it/course/view.php?id=57901) for lecture slides and homework assignments
+### <i class="fa fa-graduation-cap"></i> Computational Statistics
+**Master Degree in Statistical and Economic Sciences** *Dep. of Economics, Management and Statistics, University of Milano-Bicocca* | 1st Term
+[<i class="fa fa-link"></i> Moodle Page](https://elearning.unimib.it/course/view.php?id=55110)
 
-### Quantitative Research Methods at University of Milano-Bicocca 
-*PhD in B4S - Business for Society*, 1st Sem 2025/26
-See [Moodle](https://elearning.unimib.it/course/view.php?id=58892) for lecture slides and homework assignments
+---
 
-### Multivariate Statistical Analysis at University of Milano-Bicocca 
-*Bachelor Degree in Statistical and Economic Sciences, Dep. of Economics, Management and Statistics*, 3rd Term 2025/26
-See [Moodle](https://elearning.unimib.it/course/view.php?id=55020) for lecture slides and homework assignments
+### <i class="fa fa-database"></i> High Dimensional Data Analysis
+**Master Degree in Data Sciences** *Department of Informatics, Systems and Communication, University of Milano-Bicocca* | 1st Term
+[<i class="fa fa-link"></i> Moodle Page](https://elearning.unimib.it/course/view.php?id=57901)
 
-### Statistics at Bocconi University
-*Bachelor Degree in Economics, Dep. of Decision Sciences*, 1st Sem 2025/26
-See [Moodle](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2025&ric_cdl=TR01&IdPag=7921) for lecture slides and homework assignments
+---
 
+### <i class="fa fa-microscope"></i> Quantitative Research Methods
+**PhD in B4S - Business for Society** *University of Milano-Bicocca* | 1st Semester
+[<i class="fa fa-link"></i> Moodle Page](https://elearning.unimib.it/course/view.php?id=58892)
+
+---
+
+### <i class="fa fa-chart-bar"></i> Multivariate Statistical Analysis
+**Bachelor Degree in Statistical and Economic Sciences** *Dep. of Economics, Management and Statistics, University of Milano-Bicocca* | 3rd Term
+[<i class="fa fa-link"></i> Moodle Page](https://elearning.unimib.it/course/view.php?id=55020)
+
+---
+
+### <i class="fa fa-university"></i> Statistics
+**Bachelor Degree in Economics** *Dep. of Decision Sciences, Bocconi University* | 1st Semester
+[<i class="fa fa-link"></i> Course Syllabus & Materials](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2025&ric_cdl=TR01&IdPag=7921)
