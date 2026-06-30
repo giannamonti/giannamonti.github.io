@@ -65,9 +65,14 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Gianna S. Monti"
+  links:
+    - "https://scholar.google.com/citations?user=LieGeJUAAAAJ&hl=it"
+    - "https://orcid.org/0000-0002-7952-3618"
+    - "https://www.scopus.com/authid/detail.uri?authorId=24390889600"
+    - "https://www.researchgate.net/profile/Gianna-Monti"
+    - "https://www.linkedin.com/in/gianna-monti-79558813/"
 
 
 # Analytics
@@ -79,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gianna Monti"
+  name             : "Gianna S. Monti"
   avatar           : "gm.jpg"
   bio              : "Associate Professor of Statistics at University of Milano-Bicocca"
   email            : "gianna.monti@unimib.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
