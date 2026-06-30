@@ -23,8 +23,6 @@ My academic journey is anchored in the development of robust and nonparametric i
 * **Ecological Risk Assessment:** Tailoring statistical methods to quantify environmental impact and species sensitivity, bridging the gap between theoretical statistics and sustainability.
 * **Methodological Toolkit:** Extensive experience in **Mixture Models** and **Bayesian Hierarchical Modeling** to account for complex data structures and uncertainty.
 
-
-
 ### Scientific Community & Leadership
 
 I am deeply committed to the advancement of the international statistical community. I have been elected **Vice President of the [CODA Association](https://www.coda-association.org/en/)** for the 2025–2029 term.

@@ -3,7 +3,7 @@ title: "A Selection of Representative Publications"
 permalink: /publications/
 author_profile: true
 ---
-For a complete list of my work, please visit my [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=24390889600) or my [Google Scholar profile](https://scholar.google.com/citations?user=INSERISCI_ID).
+For a complete list of my work, please visit my [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=24390889600) or my [Google Scholar profile](https://scholar.google.com/citations?user=LieGeJUAAAAJ&hl=it).
 
 ## High Dimensional Regression Analysis for Genomic Data
 

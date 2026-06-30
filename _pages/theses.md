@@ -14,6 +14,7 @@ I am available to supervise thesis projects for students enrolled in **Statistic
 * **Statistical Methods for Genomic Data:** Development of models for high-dimensional data, with a focus on microbiome analysis and False Discovery Rate (FDR) control.
 * **Compositional Data Analysis (CoDa):** Theoretical and applied projects involving data that represent parts of a whole (e.g., percentages, proportions) using the Aitchison geometry.
 * **Ecotoxicological Risk Assessment:** Application of robust statistical models and mixture models to assess environmental impact and species sensitivity.
+* **Environmental and Health Data Analysis:** Statistical modeling of environmental time series (e.g., pollen concentrations, climate variables) and their relationship with health outcomes, such as allergic and respiratory conditions.
 
 ---
 
@@ -28,8 +29,6 @@ If you are interested in a thesis in one of these areas, please send me an email
 1. A brief description of your interests.
 2. Your latest transcript of records (Libretto).
 3. Any specific preference for a theoretical or applied project.
-
-
 
 ---
 
